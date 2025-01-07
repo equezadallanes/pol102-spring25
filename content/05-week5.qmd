@@ -1,0 +1,25 @@
+---
+title: "Week 5: Federalism and Civil Liberties"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 5 - Federalism and Civil Liberties
+
+:::
+
+[//]: <> (Need to write intro)
+
+
+### Monday, February 10
+
+- *Logic of American Politics,* Chapter 3. {{< fa book >}}
+
+
+
+
+### Wednesday, February 12
+
+- *Logic of American Politics,* Chapter 5. {{< fa book >}}
+
+

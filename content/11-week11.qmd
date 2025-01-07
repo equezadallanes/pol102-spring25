@@ -1,0 +1,25 @@
+---
+title: "Week 11: Presidency"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 11 - Presidency
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, March 24
+
+- Campaign memo
+
+
+
+### Wednesday, March 26
+
+- William G. Howell. 2003.*Power without Persuasion: The Politics of Direct Presidential Action.* Princeton University Press. Chapter 1. {{< fa file-pdf >}} available on Canvas.
+
+- *Logic of American Politics,* Chapter 7. {{< fa book >}}
+

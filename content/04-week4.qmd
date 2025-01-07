@@ -1,0 +1,42 @@
+---
+title: "Week 4: The Constitution"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 4 - The Constitution
+
+:::
+
+
+
+### Monday, February 3
+
+- Constitution of the United States. [{{< fa link >}}](https://www.archives.gov/founding-docs/constitution-transcript)
+
+- *Logic of American Politics,* Chapter 2. {{< fa book >}}
+
+
+
+
+### Wednesday, February 5
+
+- Federalist Papers #10, 51. [{{< fa link >}}](https://guides.loc.gov/federalist-papers/full-text)
+
+- *Tyranny of the Minority,* chapters 5 and 6. {{< fa book >}}
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Congressmember profile due](../assignment/congressmemeber-profile.qmd) due Friday, February 7, at 11:59pm on Canvas
+
+:::
+
+
+
+ 
+
+

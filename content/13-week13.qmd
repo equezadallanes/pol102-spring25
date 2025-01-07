@@ -1,0 +1,30 @@
+---
+title: "Week 13: Political Parties"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 13 - Political Parties
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, April 7
+
+- *Logic of American Politics,* Chapter 12. {{< fa book >}}
+
+
+### Wednesday, April 9
+
+- No assigned reading
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Response Paper 2 due](../assignment/response-papers.qmd) due Friday, April 11, at 11:59pm on Canvas
+
+:::

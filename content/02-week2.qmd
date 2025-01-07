@@ -1,0 +1,19 @@
+---
+title: "Week 2: Problems of Collective Action"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 2 - Problems of Collective Action
+
+:::
+
+
+### Monday, January 20
+
+NO CLASS. MLK Day.
+
+
+### Wednesday, January 22
+
+- *Logic of American Politics,* Chapter 1. {{< fa book >}}

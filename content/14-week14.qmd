@@ -1,0 +1,26 @@
+---
+title: "Week 14: Public Opinion, Elections, and Campaigns"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 14 - Public Opinion, Elections, and Campaigns
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, April 14
+
+- Berinsky, Adam J. 2017. "Measuring Public Opinion with Surveys." *Annual Review of Political Science* 20: 309-329. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1146%2Fannurev-polisci-101513-113724)
+
+- *Logic of American Politics,* Chapter 10. {{< fa book >}}
+
+
+### Wednesday, April 16
+
+- *Logic of American Politics,* Chapter 11. {{< fa book >}}
+
+
+

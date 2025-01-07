@@ -1,0 +1,47 @@
+---
+title: "Response Papers"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POL 102 - Introduction to American Politics \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+Paper 1 due February 21 at 11:59 pm on Canvas
+
+Paper 2 due April 11 at 11:59 pm on Canvas
+
+Paper 3 due May 7 at 5:00 pm on Canvas
+:::
+
+## Purpose
+
+This assignment will help you think about how the foundations of American government, its institutions, and the incentives of different political actors (including the public) contribute to the stability or fragility of American democracy.
+
+
+## Task
+
+You will write a response paper (2 double-spaced pages, 12-point font) where you integrate the readings for a given topic within one the three major parts of the course. In the response paper, you will answer how one or more of the concepts, institutions, or players contribute to either the fragility or stability of American democracy. The response paper should focus current events and may also offer a critique of existing research or propose new research questions. Make sure to strike a good balance between summarizing the readings and answering the overall question.
+
+
+
+## Criteria for Success
+
+A successful essay will:
+
+1. Briefly summarize the main concepts and ideas from the readings
+2. Have a clear thesis statement in the first paragraph
+3. Discuss how the concepts/institutions/players we covered in class contribute to the stability or fragility of American democracy
+4. Have a coherent structure and no grammar errors
+
+
+

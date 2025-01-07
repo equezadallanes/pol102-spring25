@@ -1,0 +1,15 @@
+---
+title: "Week 18: Final Exam"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 18 - Final Exam
+
+:::
+
+
+Take home exam due:
+
+- May 13 at 5:00pm (for seniors)
+- May 14 at 5:00pm (for non-seniors)

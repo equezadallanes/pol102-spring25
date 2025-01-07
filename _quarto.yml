@@ -1,0 +1,95 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "POL 102: Introduction to American Politics"
+  site-url: "https://pol102.spring25.equezadallanes.com/"
+  
+  navbar:
+    pinned: true
+    background: "#633296"
+    right:
+      - text: "Syllabus"
+        file: index.qmd
+      - text: "Schedule"
+        file: schedule.qmd
+      - text: "Content"
+        file: content/index.qmd
+      - text: "Assignments"
+        file: assignment/index.qmd
+      - text: "Resources"
+        file: resource/index.qmd
+
+  sidebar:
+    - title: "Assignments"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Overview"
+          contents:
+            - assignment/index.qmd
+        - section: "Assignments"
+          contents:
+            - assignment/response-papers.qmd
+            - assignment/congressmember-profile.qmd
+            - assignment/district-profile.qmd
+            - assignment/campaign-memo.qmd
+            
+    - title: "Content"
+      contents:
+        - section: "Introduction"
+          contents:
+            - content/01-week1.qmd
+            - content/02-week2.qmd
+            - content/03-week3.qmd
+        - section: "Part I - Foundations"
+          contents:
+            - content/04-week4.qmd
+            - content/05-week5.qmd
+            - content/06-week6.qmd
+        - section: "Part II - Institutions"
+          contents:
+            - content/06-week6.qmd
+            - content/07-week7.qmd
+            - content/08-week8.qmd
+            - content/11-week11.qmd
+            - content/12-week12.qmd
+        - section: "Part III - The Public"
+          contents:
+            - content/13-week13.qmd
+            - content/14-week14.qmd
+            - content/15-week15.qmd
+            - content/16-week16.qmd
+        - section: "Conclusion"
+          contents:
+            - content/17-week17.qmd
+            - content/18-week18.qmd
+    
+    - title: "Resources"
+      contents:
+        - resource/index.qmd
+        - resource/reading.qmd
+        - resource/writing.qmd
+        - resource/op-ed.qmd
+        - resource/peer_review.qmd
+        - resource/summaries.qmd
+        - resource/citations.qmd
+        - resource/website.qmd
+            
+
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    highlight-style: monokai
+
+filters:
+  - newpagelink.lua
+  
+resources: 
+  - CNAME

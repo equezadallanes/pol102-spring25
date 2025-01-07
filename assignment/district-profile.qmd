@@ -1,0 +1,46 @@
+---
+title: "Congressional District Profile"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POL 102 - Introduction to American Politics \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+## Deadline
+
+Due April 4 at 11:59 pm on Canvas.
+
+:::
+
+
+
+## Purpose
+
+This assignment will help you understand some of the electoral incentives and pressures members of Congress face as representatives of a constituency.
+
+
+## Task
+
+Write a 1-2 page, single-spaced, paper on the demographic and political characteristics of the congressional district of the representative you are writing your campaign memo for. The paper should discuss previous electoral results in that district, the policy preferences of the constituency, the relevant economic industries, and other characteristics you deem relevant (e.g., religious affiliation).
+
+
+
+## Criteria for success
+
+A successful essay will:
+
+1. Describe the demographic, economic, and political characteristics of the constituency.
+2. Identify potential policy issue that this constituency would care about.
+3. Have a coherent structure (paragraphs and headers are your friends here) and no grammatical errors.^[I recommend you use software like Grammarly to have one less thing to worry about.]
+4. Cite appropriate sources using hyperlinks. 
+

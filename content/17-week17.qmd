@@ -1,0 +1,32 @@
+---
+title: "Week 17: Applications to Policy and American Democracy"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 17 - Applications to Policy and American Democracy
+
+:::
+
+
+### Monday, May 5
+
+- *Logic of American Politics,* Chapter 15. {{< fa book >}}
+
+- (skim:) Dynes, Adam M., and John B. Holbein. 2020. "Noisy Retrospection: The Effect of Party Control on Policy Outcomes." *American Political Science Review* 114(1): 237-257. {{< fa file-pdf >}} available on Canvas.
+
+
+
+### Wednesday, May 7
+
+- *Tyranny of the Minority,* chapters 7 and 8. {{< fa book >}}
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Response Paper 3 due](../assignment/response-papers.qmd) due Wednesday, May 7, at 5:00pm on Canvas
+
+:::
+

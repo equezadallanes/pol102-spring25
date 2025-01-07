@@ -1,0 +1,24 @@
+---
+title: "Week 8: Review and Midterm Exam"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 8 - Review and Midterm Exam
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, March 3
+
+- Review
+
+
+
+### Wednesday, March 5
+
+- Midterm Exam
+
+

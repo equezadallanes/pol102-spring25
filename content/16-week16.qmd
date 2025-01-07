@@ -1,0 +1,35 @@
+---
+title: "Week 16: Interest Groups and the Media"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 16 - Interest Groups and the Media
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, April 28
+
+- Ban, Pamela, Maxwell Palmer, and Benjamin Schneer. 2019. "From the Halls of Congress to K Street: Government Experience and its Value for Lobbying." *Legislative Studies Quarterly* 44(4): 714- 752. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1111%2Flsq.12250)
+
+
+
+### Wednesday, April 30
+
+- CrashCourse. "Media Institution: Crash Course Government and Politics #44." 2016. *CrashCourse* [video], January 16. [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=6F0g4N415uw)
+
+- Prior, Markus. 2013. "Media and Political Polarization." *Annual Review of Political Science* 16: 101-127. {{< fa file-pdf >}} available on Canvas.
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Final draft of campaign memo due](../assignment/campaign-memo.qmd) due Friday, May 2, at 11:59pm on Canvas
+
+:::
+

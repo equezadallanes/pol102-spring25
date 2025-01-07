@@ -1,0 +1,45 @@
+---
+title: "Comgressmember Profile"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POL 102 - Introduction to American Politics \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+## Deadline
+
+Due February 7 at 11:59 pm on Canvas.
+
+:::
+
+
+
+## Purpose
+
+This assignment will help you learn about the work of members of Congress.
+
+
+## Task
+
+Write a 1-2 page, single-spaced, paper on the career and congressional work of a member of the House of Representatives. The paper should discuss the career trajectory of the representative before their election as well as their work in the House, including their committee assignments, roll-call record, and bill sponsorship.
+
+
+## Criteria for success
+
+A successful essay will:
+
+1. Describe the electoral history of a member of the House of Representatives.
+2. Discuss the policy priorities of the congressmember according to their legislative behavior.
+3. Have a coherent structure (paragraphs and headers are your friends here) and no grammatical errors.^[I recommend you use software like Grammarly to have one less thing to worry about.]
+4. Cite appropriate sources (e.g., government websites, candidate websites, newspapers, ballotpedia, etc.) using hyperlinks. 
+

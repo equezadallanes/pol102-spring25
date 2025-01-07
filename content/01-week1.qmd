@@ -1,0 +1,17 @@
+---
+title: "Week 1: Introduction"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 1 - Introduction
+
+:::
+
+
+### Wednesday, January 15
+
+- [Syllabus](../index.qmd)
+
+- NPR. "American Democracy (Keep It If You Can)." *NPR 1A* [podcast], March 4. [{{< fa podcast >}}](https://www.npr.org/2019/03/04/700080612/american-democracy-keep-it-if-you-can)
+

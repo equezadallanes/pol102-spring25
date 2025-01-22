@@ -17,3 +17,12 @@ NO CLASS. MLK Day.
 ### Wednesday, January 22
 
 - *Logic of American Politics,* Chapter 1. {{< fa book >}}
+
+
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/809043/)
+
+:::
+

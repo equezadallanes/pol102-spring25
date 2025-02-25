@@ -16,10 +16,26 @@ title: "Week 5: Federalism and Civil Liberties"
 - *Logic of American Politics,* Chapter 3. {{< fa book >}}
 
 
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/825143/)
+
+:::
+
 
 
 ### Wednesday, February 12
 
 - *Logic of American Politics,* Chapter 5. {{< fa book >}}
+
+
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/825144/)
+
+:::
+
 
 

@@ -17,6 +17,13 @@ title: "Week 4: The Constitution"
 - *Logic of American Politics,* Chapter 2. {{< fa book >}}
 
 
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/825142/)
+
+:::
+
 
 
 ### Wednesday, February 5

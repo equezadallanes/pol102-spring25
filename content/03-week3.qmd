@@ -15,6 +15,15 @@ title: "Week 3: American Democracy: Fragile or Stable?"
 - Levitsky, Steven, and Daniel Ziblatt. 2018. "How Wobbly Is Our Democracy?" *The New York Times.* [{{< fa link >}}](https://www.nytimes.com/2018/01/27/opinion/sunday/democracy-polarization.html)
 
 - *Tyranny of the Minority,* chapters 1 and 2. {{< fa book >}}
+
+
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/825141/)
+
+:::
+
  
 
 ### Wednesday, January 29

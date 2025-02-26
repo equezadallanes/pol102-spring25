@@ -14,6 +14,7 @@ title: "Week 8: Review and Midterm Exam"
 ### Monday, March 3
 
 - Review
+- [List of terms to know](../resource/midterm-guide.qmd)
 
 
 

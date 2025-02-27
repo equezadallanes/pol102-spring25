@@ -30,5 +30,9 @@ title: "Week 7: Congress"
 - *Logic of American Politics,* Chapter 6. {{< fa book >}}  (pp. 257-295)
 
 
+::: {.content-visible when-format="html"}
 
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/826131/)
 
+:::

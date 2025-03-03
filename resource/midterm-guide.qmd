@@ -31,7 +31,6 @@ This is a list of concepts and frameworks with which you should be familiar for 
 9. Civil Liberties
     - Be familiar with a few of them
     - Incorporation
-    - Evangelical toolbox (Emerson and Smith 2000)
 10. Civil Rights
     - Reconstruction Amendments
     - Civil Rights Movement and the role of the Black Church

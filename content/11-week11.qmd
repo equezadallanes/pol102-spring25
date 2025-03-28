@@ -23,6 +23,7 @@ title: "Week 11: Presidency"
 
 - *Logic of American Politics,* Chapter 7. {{< fa book >}}
 
+::: {.content-visible when-format="html"}
 
 #### For class
 
@@ -32,3 +33,4 @@ title: "Week 11: Presidency"
 
 - ``Trump's executive order on elections is far-reaching. But will it actually stick?'' Associated Press. [{{< fa link >}}](https://apnews.com/article/trump-elections-voting-executive-order-citizenship-proof-4bbcf7e13183d8c5004ceb0ca53c7845)
 
+:::

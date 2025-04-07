@@ -13,12 +13,17 @@ title: "Week 13: Political Parties"
 
 ### Monday, April 7
 
-- *Logic of American Politics,* Chapter 12. {{< fa book >}}
+**UPDATED**
+
+- *Logic of American Politics, Chapter 9.* {{< fa book >}}
+
+- NPR. "'If You Can Keep It': The Future Of The Federal Judiciary." 2024. *NPR 1A* [podcast], December 16. [{{< fa podcast >}}](https://www.npr.org/2024/12/16/1219830870/1a-12-16-2024)
+
 
 
 ### Wednesday, April 9
 
-- No assigned reading
+- *Logic of American Politics,* Chapter 12. {{< fa book >}}
 
 
 :::{.callout-important}

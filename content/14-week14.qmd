@@ -18,6 +18,21 @@ title: "Week 14: Public Opinion, Elections, and Campaigns"
 - *Logic of American Politics,* Chapter 10. {{< fa book >}}
 
 
+::: {.content-visible when-format="html"}
+
+#### For class
+
+- [Jones, Jeffrey M. 2024. "Sharply More Americans Want to Curb Immigration to U.S." *Gallup,* July 12.](https://news.gallup.com/poll/647123/sharply-americans-curb-immigration.aspx)
+
+- [Brenan, Megan. 2025. "Less Than Half in U.S. Now Sympathetic Toward Israelis." *Gallup,* March 6.](https://news.gallup.com/poll/657404/less-half-sympathetic-toward-israelis.aspx)
+
+- ["What do you know about the U.S. government?" *PEW*](https://www.pewresearch.org/politics/quiz/what-do-you-know-about-the-u-s-government/)
+
+:::
+
+
+
+
 ### Wednesday, April 16
 
 - *Logic of American Politics,* Chapter 11. {{< fa book >}}

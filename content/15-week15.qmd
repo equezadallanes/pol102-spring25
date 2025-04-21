@@ -17,16 +17,19 @@ title: "Week 15: Political Participation and Interest Groups"
 
 
 
-:::{.callout-important}
-
-### Deadline
-
-[Full draft of campaign memo for peer-review](../assignment//campaign-memo.qmd) due Monday, April 21, at 3:30pm on Canvas
-
-:::
 
 
 ### Wednesday, April 23
 
 - *Logic of American Politics,* Chapter 13. {{< fa book >}}
 
+
+:::{.callout-important}
+
+### Deadline
+
+UPDATED: [Full draft of campaign memo for peer-review](../assignment/campaign-memo.qmd) due Wednesday, April 23, at 3:30pm on Canvas
+
+- Complete peer review by Monday, April 28 at 3:30 pm. Click [here](../resource/peer_review.qmd) for questions to guide your peer review.
+
+:::

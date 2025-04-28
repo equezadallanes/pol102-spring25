@@ -30,7 +30,12 @@ title: "Week 14: Public Opinion, Elections, and Campaigns"
 
 :::
 
+::: {.content-visible when-format="html"}
 
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/848816/)
+
+:::
 
 
 ### Wednesday, April 16
@@ -38,4 +43,9 @@ title: "Week 14: Public Opinion, Elections, and Campaigns"
 - *Logic of American Politics,* Chapter 11. {{< fa book >}}
 
 
+::: {.content-visible when-format="html"}
 
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/848817/)
+
+:::

@@ -16,12 +16,27 @@ title: "Week 15: Political Participation and Interest Groups"
 - Gerber, Alan S., Donald P. Green, and Christopher W. Larimer.  "Social Pressure and Voter Turnout: Evidence from a Large-Scale Field Experiment." *American Political Science Review* 102(1): 33-48. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1017%2FS000305540808009X)
 
 
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/848818/)
+
+:::
 
 
 
 ### Wednesday, April 23
 
 - *Logic of American Politics,* Chapter 13. {{< fa book >}}
+
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/848819/)
+
+:::
+
+
 
 
 :::{.callout-important}

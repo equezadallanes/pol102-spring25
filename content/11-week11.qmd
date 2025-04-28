@@ -34,3 +34,11 @@ title: "Week 11: Presidency"
 - ``Trump's executive order on elections is far-reaching. But will it actually stick?'' Associated Press. [{{< fa link >}}](https://apnews.com/article/trump-elections-voting-executive-order-citizenship-proof-4bbcf7e13183d8c5004ceb0ca53c7845)
 
 :::
+
+
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/848812/)
+
+:::

@@ -27,6 +27,14 @@ title: "Week 12: The Bureaucracy and Judiciary"
 :::
 
 
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/848813/)
+
+:::
+
+
 
 
 ### Wednesday, April 2
@@ -34,6 +42,14 @@ title: "Week 12: The Bureaucracy and Judiciary"
 - *Logic of American Politics, Chapter 9.* {{< fa book >}}
 
 - NPR. "'If You Can Keep It': The Future Of The Federal Judiciary." 2024. *NPR 1A* [podcast], December 16. [{{< fa podcast >}}](https://www.npr.org/2024/12/16/1219830870/1a-12-16-2024)
+
+
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/848814/)
+
+:::
 
 
 

@@ -26,6 +26,14 @@ title: "Week 13: Political Parties"
 - *Logic of American Politics,* Chapter 12. {{< fa book >}}
 
 
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/848815/)
+
+:::
+
+
 :::{.callout-important}
 
 ### Deadline
